@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { routes } from "./routes/routes";
-import { Ah } from "./components/Ah/Ah";
+import { Ah } from "./components/Ah";
 
 function App() {
   return (

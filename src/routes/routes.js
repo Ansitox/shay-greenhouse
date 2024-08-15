@@ -1,5 +1,4 @@
-import { Ah } from "../components/Ah/Ah";
-
+import { Ah } from "../components/Ah";
 export const routes = [
   {
     id: 1,
